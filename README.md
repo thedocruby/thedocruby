@@ -1,5 +1,5 @@
 # About Dr. Rubisco (@thedocruby)
-![logo11_24_19850](https://user-images.githubusercontent.com/76263371/110219902-05a4aa00-7e90-11eb-9577-0519b8721655.png)
+![Dr.Rubisco (@thedocruby) logo banner art](https://cdn.discordapp.com/attachments/846831090304155728/929917318400716871/unknown.png)
 
 Hello! I'm Dr. Rubisco, but my friends call me Doc. This name and account is the one I use for and associate with my Mojang Account/Xbox Account for purposes related to Minecraft. I try to avoid linking these accounts to my personal accounts whenever possible, so please refrain from personal inquiries. My Mojang account username is Dr_Rubisco (DOCK-tore Rue-BEECE-coe), but pretty much any other account associated with this alias (full list below) uses the username 'thedocruby', so I will often introduce myself as "Dr. Rubisco (@thedocruby)", as above.
 
@@ -13,9 +13,10 @@ Today, I am interested in all manner of minecraft mods, modpacks, datapacks, sha
 
 ### Contact Me/Socials: 
 Discord -  Dr_Rubisco#6771 <br>
-Patreon - [Dr. Rubisco (/thedocruby)](https://www.patreon.com/thedocruby) <br>
-Email - [thedocruby@gmail.com](mailto:thedocruby@gmail.com) <br>
-PlanetMinecraft - [thedocruby](https://www.planetminecraft.com/thedocruby) <br>
 GitHub - [thedocruby](https://github.com/thedocruby/) <br>
+PlanetMinecraft - [thedocruby](https://www.planetminecraft.com/thedocruby) <br>
 Reddit - [thedocruby](https://www.reddit.com/u/thedocruby) (not very active) <br>
 Twitter - [@thedocruby](https://twitter.com/thedocruby) (_very_ not active) <br>
+Email - [thedocruby@gmail.com](mailto:thedocruby@gmail.com) (only use if absolutely necessary) <br>
+
+*this page was last updated on 26 June 2021 (will update again soon)*
