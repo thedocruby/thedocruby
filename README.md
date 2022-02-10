@@ -1,5 +1,4 @@
 # About Dr. Rubisco (@thedocruby)
-![Dr.Rubisco (@thedocruby) logo banner art](https://cdn.discordapp.com/attachments/846831090304155728/929917318400716871/unknown.png)
 
 Hello! I'm Dr. Rubisco (DOCK-tore Roo-BISS-coe), but my friends call me Doc. This name and account is the one I use for and associate with my online life. I try to avoid linking these accounts to my personal accounts whenever possible, so please refrain from personal inquiries. My Mojang/Xbox account username is Dr_Rubisco, but pretty much any other account associated with this alias (full list below) uses the username 'thedocruby', so I will often introduce myself as "Dr. Rubisco (@thedocruby)", as above.
 
@@ -17,3 +16,4 @@ Email - [thedocruby@gmail.com](mailto:thedocruby@gmail.com) (only use if absolut
 Phone - +1 (987) 654-3210 /s
 
 *this page was last updated on 10 February 2022. message me on discord if you notice it is outdated, or if you wish for me to update it again.*
+TODO: Add xbox, patreon; describe skillset in more detail; update banner image
