@@ -14,7 +14,5 @@ GitHub - [thedocruby](https://github.com/thedocruby/) <br>
 PlanetMinecraft - [@thedocruby](https://www.planetminecraft.com/thedocruby) <br>
 Reddit - [u/thedocruby](https://www.reddit.com/u/thedocruby) (not very active) <br>
 Twitter - [@thedocruby](https://twitter.com/thedocruby) (_very_ not active) <br>
-Email - [thedocruby@gmail.com](mailto:thedocruby@gmail.com) (only use if absolutely necessary) <br>
-
-*this page was last updated on 15 February 2022. message me on discord if you notice it is outdated, or if you wish for me to update it again.*
-> *TODO: describe skillset in more detail*
+Email - [thedocruby@gmail.com](mailto:thedocruby@gmail.com) (only use if absolutely necessary) <br> <br> <br> 
+> *this page was last updated on 15 February 2022. message me on discord if you notice it is outdated, or if you wish for me to update it again.*
