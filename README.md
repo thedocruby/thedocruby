@@ -15,8 +15,9 @@ I am a passionate programmer with deep roots in C and C++, and experience with m
 Website - https://thedocruby.dev <br>
 Discord -  [Dr_Rubisco#6771](https://discord.gg/kdZ6gH7Hg6) (preferred contact method) <br>
 GitHub - [thedocruby](https://github.com/thedocruby/) <br>
+Patreon - [thedocruby](https://patreon.com/thedocruby) <br>
 PlanetMinecraft - [@thedocruby](https://www.planetminecraft.com/thedocruby) <br>
 Reddit - [u/thedocruby](https://www.reddit.com/u/thedocruby) (not very active) <br>
 Twitter - [@thedocruby](https://twitter.com/thedocruby) (_very_ not active) <br>
 Email - [thedocruby@gmail.com](mailto:thedocruby@gmail.com) (only use if absolutely necessary) <br> <br> <br> 
-> *this page was last updated on 15 February 2022. message me on discord if you notice it is outdated, or if you wish for me to update it again.*
+> *this page was last updated on 21 February 2022. message me on discord if you notice it is outdated, or if you wish for me to update it again.*
