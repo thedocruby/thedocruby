@@ -7,6 +7,7 @@ Hello! I'm Dr. Rubisco (DOCK-tore Roo-BISS-coe), but my friends call me Doc. Thi
 ### About Me
 I am a passionate programmer with deep roots in C and C++, and experience with many different C-family programming languages, especially Java and C#. I have recently taken a liking to Rust, and plan to do future projects in that language. My main focus at the moment is Minecraft mod dev, as I am a passionate Minecraft player as well. I also enjoy 3D rendering and iterative environment sampling programs, especially path tracing and other forms of ray tracing, and I may one day develop my own Path-traced Minecraft shaderpack or voxel engine. More generally, I am passionate about the scientific, mathematical and iterative aspects of programming. I also enjoy microcontroller programming and small electrical engineering projects.
 
+<br>
 <a href="https://github.com/thedocruby">
   <img alt="Dr. Rubisco's GitHub stats" align="left" src="https://github-readme-stats.vercel.app/api?username=thedocruby&count_private=true&show_icons=true&theme=dark" />
 </a><br><br><br><br><br><br><br><br><br><br>
