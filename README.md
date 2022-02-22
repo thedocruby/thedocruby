@@ -10,7 +10,7 @@ I am a passionate programmer with deep roots in C and C++, and experience with m
 <br>
 <a href="https://github.com/thedocruby">
   <img alt="Dr. Rubisco's GitHub stats" align="left" src="https://github-readme-stats.vercel.app/api?username=thedocruby&count_private=true&show_icons=true&theme=dark" />
-</a><br><br><br><br><br><br><br><br><br><br>
+</a><br><br><br><br><br><br><br><br><br><br><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img alt="Dr. Rubisco's Top Langs" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedocruby&layout=compact&theme=dark&count_private=true&exclude_repo=VANELLA,cayman,Iris-site,irisshaders.github.io" />
 </a><br><br><br><br><br><br><br>
