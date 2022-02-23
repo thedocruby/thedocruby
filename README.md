@@ -2,7 +2,7 @@
 
 ---
 
-Hello! I'm Dr. Rubisco (DOCK-tore Roo-BISS-coe), but my friends call me Doc. This name and account is the one I use for and associate with my online life. I try to avoid linking these accounts to my personal accounts whenever possible, so please refrain from personal inquiries. My Mojang/Xbox account username is Dr_Rubisco, but pretty much any other account associated with this alias (full list below) uses the username 'thedocruby', so I will often introduce myself as "Dr. Rubisco (@thedocruby)", as above.
+Hello! I'm Dr. Rubisco (DOCK-tore Roo-BISS-coe), but my friends call me Doc. This name and account is the one I use for and associate with my online life. I try to avoid linking these accounts to my personal accounts whenever possible, so please refrain from personal inquiries. My Mojang/Xbox account username is Dr_Rubisco, but pretty much any other account associated with this alias (full list below) uses the username 'thedocruby', so I will often introduce myself as "Dr. Rubisco (@thedocruby)".
 
 ### About Me
 I am a passionate programmer with deep roots in C and C++, and experience with many different C-family programming languages, especially Java and C#. I have recently taken a liking to Rust, and plan to do future projects in that language. My main focus at the moment is Minecraft mod dev, as I am a passionate Minecraft player as well. I also enjoy 3D rendering and iterative environment sampling programs, especially path tracing and other forms of ray tracing, and I may one day develop my own Path-traced Minecraft shaderpack or voxel engine. More generally, I am passionate about the scientific, mathematical and iterative aspects of programming. I also enjoy microcontroller programming and small electrical engineering projects.
