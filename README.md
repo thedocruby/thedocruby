@@ -21,4 +21,4 @@ Reddit - [u/thedocruby](https://www.reddit.com/u/thedocruby) (not very active) <
 Twitter - [@thedocruby](https://twitter.com/thedocruby) (_very_ not active) <br> <br>
 For official business, use my Gmail account. ([thedocruby@gmail.com](mailto:thedocruby@gmail.com)) <br>
 I do not check my gmail every day, but I should respond within 5 business days. <br> <br> <br> 
-> *this page was last updated on 21 February 2022. message me on discord if you notice it is outdated, or if you wish for me to update it again.*
+> *this page was last updated on 13 April 2022. message me on discord if you notice it is outdated, or if you wish for me to update it again.*
