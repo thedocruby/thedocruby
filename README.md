@@ -1,4 +1,4 @@
-![dr-rubisco-banner-cropped-flat](https://user-images.githubusercontent.com/76263371/154176272-963d6f89-325d-444e-a2f3-73c7120647da.png)
+![dr-rubisco-banner-cropped-flat](https://user-images.githubusercontent.com/76263371/169357861-c368b75f-df2f-4654-b1eb-8074aea51867.png)
 
 ---
 
