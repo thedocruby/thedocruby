@@ -9,8 +9,6 @@ I am a passionate game developer and software engineer with deep roots in C and 
 
 [![Dr. Rubisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=thedocruby&count_private=true&show_icons=true&theme=dark)](https://github.com/thedocruby)
 
-[![Dr. Rubisco's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedocruby&layout=compact&theme=dark&count_private=true&exclude_repo=VANELLA,cayman,Iris-site,irisshaders.github.io)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Contact / Socials
 Website - https://thedocruby.dev <br>
 Discord -  [Dr_Rubisco#6771](https://discord.gg/kdZ6gH7Hg6) (preferred contact method) <br>
