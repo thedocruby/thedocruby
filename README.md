@@ -10,8 +10,8 @@ I am a passionate game developer and software engineer with deep roots in C and 
 [![Dr. Rubisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=thedocruby&count_private=true&show_icons=true&theme=dark)](https://github.com/thedocruby)
 
 ### Contact / Socials
-Website - https://thedocruby.dev <br>
-Discord -  [Dr_Rubisco#6771](https://discord.gg/kdZ6gH7Hg6) (preferred contact method) <br>
+Website - https://thedocruby.dev/ <br>
+Discord -  [thedocruby#6771](https://discord.com/) (preferred contact method) <br>
 GitHub - [thedocruby](https://github.com/thedocruby/) <br>
 Patreon - [thedocruby](https://patreon.com/thedocruby) <br>
 PlanetMinecraft - [@thedocruby](https://www.planetminecraft.com/thedocruby) <br>
