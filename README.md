@@ -8,7 +8,7 @@ Hello! I'm **Dr. Rubisco** (DOCK-tore Roo-BISS-coe), but my friends call me **Do
 I am a **passionate game developer** and **software engineer** with deep roots in **C and C++**, and professional experience with a diversity of languages, such as **Rust**, **C#**, **TypeScript**, and **Java**. I am **motivated** by a core desire to **create** and **inspire**, and I channel this into everything I do. I enjoy projects in **computer graphics** and **3D rendering**, as well as **physics engines** and **simulations**. More generally, I am passionate about the **scientific** and **mathematical** aspects of programming, with emphasis on **procedural**, **parametric**, **modular**, and **iterative** applications. I am **fond of nature**, and enjoy **hiking**, **camping**, and **foraging** in my lesiure time. I also enjoy many other topics at a hobby level, from **DIY Biochem** and **astrophotography** to **microcontrollers** and **graphic design**.
 
 ### Contact / Socials
-**Discord** -  [thedocruby#6771](https://discord.com/) (preferred contact method) <br>
+**Discord** -  [thedocruby](https://discord.com/) (preferred contact method) <br>
 **Matrix** - [@thedocruby:matrix.org](https://matrix.to/#/@thedocruby:matrix.org) <br>
 **Mastodon** - TBA <br>
 **LinkedIn** - [Mason Pysell](https://www.linkedin.com/in/thedocruby) <br>
