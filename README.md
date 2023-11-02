@@ -11,7 +11,7 @@ I am a **passionate game developer** and **software engineer** with deep roots i
 **Discord** -  [thedocruby](https://discord.com/) (preferred contact method) <br>
 **Matrix** - [@thedocruby:matrix.org](https://matrix.to/#/@thedocruby:matrix.org) <br>
 **Mastodon** - TBA <br>
-**LinkedIn** - [Mason Pysell](https://www.linkedin.com/in/thedocruby) <br>
+**LinkedIn** - [in/thedocruby](https://www.linkedin.com/in/thedocruby) <br>
 **Website** - [thedocruby.dev](https://thedocruby.dev/) - Needs updating <br>
 **Email** - [thedocruby@gmail.com](mailto:thedocruby@gmail.com) <br>
 Note: For **official business**, use my **professional Gmail account**, ([doc@thedocruby.dev](mailto:doc@thedocruby.dev)). <br>
