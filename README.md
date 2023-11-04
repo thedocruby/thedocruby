@@ -10,7 +10,7 @@ I am a **passionate game developer** and **software engineer** with deep roots i
 ### Contact / Socials
 **Discord** -  [thedocruby](https://discord.com/) (preferred contact method) <br>
 **Matrix** - [@thedocruby:matrix.org](https://matrix.to/#/@thedocruby:matrix.org) (alternative for fellow nerds :)<br>
-**Mastodon** - TBA <br>
+**Mastodon** - [@thedocruby@mstdn.social](https://mstdn.social/@thedocruby) <br>
 **LinkedIn** - [in/thedocruby](https://www.linkedin.com/in/thedocruby) <br>
 **Website** - [thedocruby.dev](https://thedocruby.dev/) - Needs updating <br>
 **Email** - [thedocruby@gmail.com](mailto:thedocruby@gmail.com) <br>
