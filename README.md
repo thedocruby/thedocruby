@@ -9,11 +9,13 @@ I am a **passionate game developer** and **software engineer** with deep roots i
 
 ### Contact / Socials
 **Discord** -  [thedocruby](https://discord.com/) (preferred contact method) <br>
-**Matrix** - [@thedocruby:matrix.org](https://matrix.to/#/@thedocruby:matrix.org) (alternative for fellow nerds :)<br>
+**Matrix** - [@thedocruby:matrix.org](https://matrix.to/#/@thedocruby:matrix.org) (alternative for fellow nerds :) <br>
+**Ko-fi** - [ko-fi.com/thedocruby](https://ko-fi.com/thedocruby) - Buy me a... sandwich or smth, idk, I don't drink coffee 😅 <br>
 **Mastodon** - [@thedocruby@mstdn.social](https://mstdn.social/@thedocruby) <br>
 **LinkedIn** - [in/thedocruby](https://www.linkedin.com/in/thedocruby) <br>
 **Website** - [thedocruby.dev](https://thedocruby.dev/) - Needs updating <br>
 **Email** - [thedocruby@gmail.com](mailto:thedocruby@gmail.com) <br>
-Note: For **official business**, use my **professional Gmail account**, ([doc@thedocruby.dev](mailto:doc@thedocruby.dev)). <br>
+
+Note: For **official business**, use my **Google Workspace email**, ([doc@thedocruby.dev](mailto:doc@thedocruby.dev)). <br>
 I do not check my gmail every day, but I should respond within 5 business days. <br> <br> <br> 
-> *this page was last updated on 14 October 2023. please contact me if you notice it is outdated, or if you would like more recent information.*
+> *this page was last updated on 5 Dec 2023. please contact me if you notice it is outdated, or if you would like more recent information.*
