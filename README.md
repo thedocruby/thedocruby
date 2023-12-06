@@ -16,6 +16,6 @@ I am a **passionate game developer** and **software engineer** with deep roots i
 **Website** - [thedocruby.dev](https://thedocruby.dev/) - Needs updating <br>
 **Email** - [thedocruby@gmail.com](mailto:thedocruby@gmail.com) <br>
 
-Note: For **official business**, use my **Google Workspace email**, ([doc@thedocruby.dev](mailto:doc@thedocruby.dev)). <br>
+Note: For **official business**, use my **Google Workspace email**, ([mpysell@srclabs.dev](mailto:mpysell@srclabs.dev)). <br>
 I do not check my gmail every day, but I should respond within 5 business days. <br> <br> <br> 
 > *this page was last updated on 5 Dec 2023. please contact me if you notice it is outdated, or if you would like more recent information.*
